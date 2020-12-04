@@ -8,4 +8,5 @@ public class StringTest2 {
 		System.out.println(str.length());
 	}
 
-}
+}//빗문자열 값있다.
+//null 값 없다
